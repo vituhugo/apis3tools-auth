@@ -1,0 +1,13 @@
+{
+  "name": "dev/auth",
+  "require": {
+    "league/oauth2-client": "^1.4",
+    "league/oauth2-google": "^1.0"
+  },
+  "authors": [
+    {
+      "name": "Victor Rodrigues",
+      "email": "victor.rodrigues@apis3.com"
+    }
+  ]
+}
